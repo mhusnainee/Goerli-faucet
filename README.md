@@ -1,7 +1,7 @@
 # Goerli-faucet
 Goerli faucet decentralized application, web3 using ReactJs
 
-Link : ``` goerlifaucet-web3-by-husnain.netlify.app ```
+Link : ``` goerli-faucet.netlify.app ```
 
 Anyone can request 0.01 Goerli Ethers after every hour
 
